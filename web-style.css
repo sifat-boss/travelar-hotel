@@ -1,0 +1,71 @@
+body{
+    font-family: 'Macondo', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0px;
+padding: 0px;
+}
+#restaurant{
+    color: rgb(223, 68, 12);
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+   
+}
+.about{
+    width: 100%;
+    padding: 20px 30px 10px;
+}
+header > h1{
+    text-align: center;
+}
+.right-sight img{
+    width: 300px;
+}
+.button{
+    padding: 15px 30px ;
+    border-radius: 3px;
+    border: none;
+    background-color: brown;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.button:hover{
+    background-color:cyan;
+    color: rgb(75, 9, 9);
+    transition: 2s;
+    cursor: pointer;
+    
+}
+h1{
+    text-align: center;
+    font-size:30px;
+    font-weight:400;
+    margin-top: 60px;
+}
+.imgesr{
+    width:230px;
+    height:200px;
+   
+}
+.first-100{
+    width: 100%;
+
+}
+.security{
+    padding: 20px ;
+}
+h3{
+    color: chocolate;
+}
+/* .service{
+    display: flex;
+} */
+#ser{
+    color: tomato;
+}
