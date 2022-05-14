@@ -6,7 +6,7 @@ margin: 0px;
 padding: 0px;
 }
 #restaurant{
-    color: rgb(223, 68, 12);
+    color: rgb(136, 117, 110);
 
 }
 .parent{
@@ -23,7 +23,7 @@ padding: 0px;
 }
 header > h1{
     text-align: center;
-    background-color: burlywood;
+    background-color: rgb(165, 59, 21);
     padding: 20px;
 }
 .right-sight img{
@@ -48,7 +48,7 @@ h1{
     text-align: center;
     font-size:30px;
     font-weight:400;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 .imgesr{
     width:200px;
@@ -61,8 +61,8 @@ h1{
 
 }
 .security{
-border-radius: 6px;
-box-shadow: 14px 10px 5px   lightgrey;
+    border-radius: 6px;
+    box-shadow: 14px 10px 5px   lightgrey;
     width: 200px;
     padding:20px;
 
@@ -74,18 +74,28 @@ h3{
     display: flex;
 } */
 #ser{
-    color: tomato;
+    color: rgb(223, 169, 156);
 }
 .detail-1{
     display: flex;
     justify-content: space-around;
  
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 60px;
+    margin-bottom: 70px;
 }
 #choto-ho{
 height: 150px ;
 }
 button{
     text-align: center;
+}
+.element{
+    margin-top:50px;
+}
+.footer-text{
+    text-align: center;
+    background-color:rgb(75, 9, 9);
+    color: antiquewhite;
+    padding: 30px 40px;
+    font-size: 20px;
 }
